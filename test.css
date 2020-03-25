@@ -16,7 +16,7 @@ background-color:#4e82d0;
 #header {
 margin: 10px 20px 10px 20px;
 color: #fff;
-font-size: 38px;
+font-size: 10px;
 background-color: #888;
 background-image: url("https://glassho.me/fwtest/bannertop.png");
 background-repeat: repeat-x;
@@ -87,7 +87,7 @@ display:block;
 margin: 20px 0 10px 0px!important;
 color: #00aeff;
 text-decoration: none;
-font-size: 16px;
+font-size: 10px;
 }
 
 /* This is the styling for a "visited/clicked" Feed Item Title link in the body container*/
@@ -154,7 +154,7 @@ text-decoration: none;
 
 /* This is the styling for the Description in a Feed Item (i.e. the text of a Feed Item in Thumbnail mode, or text+images in Full HTML mode)*/
 .fw-feed-item-description {
-font-size: 12px;
+font-size: 10px;
 text-align: left;
 margin: 10px;
 color: #666;
@@ -203,7 +203,7 @@ background-color:#4e82d0;
 #header {
 margin: 10px 20px 10px 20px;
 color: #fff;
-font-size: 18px;
+font-size: 10px;
 background-color: #888;
 background-image: url("https://glassho.me/fwtest/bannertop.png");
 background-repeat: repeat-x;
@@ -274,7 +274,7 @@ display:block;
 margin: 20px 0 10px 0px!important;
 color: #00aeff;
 text-decoration: none;
-font-size: 16px;
+font-size: 10px;
 }
 
 /* This is the styling for a "visited/clicked" Feed Item Title link in the body container*/
